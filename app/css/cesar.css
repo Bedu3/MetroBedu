@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+}
+
 .producto_flex {
     display: flex;
     text-align: center;
