@@ -1,0 +1,28 @@
+.menuv {
+  font-size: 16px;
+  display: inline-block;
+  padding-right: 10px;
+  width: 100%;
+}
+
+.menuv li {
+  display: inline-block;
+  font-family: 'Allerta', sans-serif;  
+}
+
+.headercontenedorv {
+  background-color: orange;
+
+}
+
+.padrev {
+  display: flex;
+}
+
+.logotipov1 {
+  width: 50%;
+}
+
+.logotipov2 {
+  width: 50%;
+}
