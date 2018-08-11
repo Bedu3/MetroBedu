@@ -1,23 +1,27 @@
 .contenedor {
 	background: lightblue;
+	margin: auto;
 }
 
 header {
-	width: 100%;
+	width: 0%;
 
 }
 
-.header_logo {
-	width: 70%;
-	margin-top: 0%; 
-}
-
-.login_logo {
-	width: 20%;
+.header {
+	width: 0%;
 	display: flex;
 }
 
-.header_div_menu {
+.header .header_nav_menu li{
+	display: inline;
+	padding-left: 50%: 
+	margin-left: 100%;
 	float: right;
-	display: flex;
 }
+
+.header_nav_menu {
+}
+/*.header_nav_menu {
+	display: inline-block;
+}*/
