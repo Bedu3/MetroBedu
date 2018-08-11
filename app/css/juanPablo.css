@@ -1,0 +1,23 @@
+.contenedor {
+	background: lightblue;
+}
+
+header {
+	width: 100%;
+
+}
+
+.header_logo {
+	width: 70%;
+	margin-top: 0%; 
+}
+
+.login_logo {
+	width: 20%;
+	display: flex;
+}
+
+.header_div_menu {
+	float: right;
+	display: flex;
+}
